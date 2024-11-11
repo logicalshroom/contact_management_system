@@ -8,7 +8,7 @@ You can also export your file to a .txt document for easy perusal later.
 
 The import featutre is not yet implemented. We hope to have it completed shortly so that your contact list can be exported, and then re-important to the program so that it can be edited and exported again later.
 
-Following is a summary of requitements for this assignment:
+Following is a summary of requirements for this assignment:
 
 ## Project Requirements
 Your task is to develop a Contact Management System with the following features:
